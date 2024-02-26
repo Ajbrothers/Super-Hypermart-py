@@ -1,0 +1,16 @@
+/* Styles for product panel component */
+
+/* Product categories */
+h3 {
+  margin-top: 20px;
+}
+
+/* Product list */
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 10px;
+}

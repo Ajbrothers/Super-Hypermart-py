@@ -1,0 +1,10 @@
+flask
+peewee
+jwt 
+jsonify
+pip install flask-mysqldb
+flask_sqlalchemy
+pip install pymysql
+pip install mysql-connector 
+pip install mysql-connector-python (not working in my PC)
+pip install mysql-connector-python-rf

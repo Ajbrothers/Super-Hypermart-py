@@ -1,0 +1,27 @@
+{
+  "cSpell.words": [
+    "jsonify",
+    "mysqldb",
+    "pymysql",
+    "SQLALCHEMY",
+    "Superhm",
+    "werkzeug"
+  ],
+  "sqltools.connections": [
+    {
+      "mysqlOptions": {
+        "authProtocol": "default",
+        "enableSsl": "Disabled"
+      },
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 3306,
+      "driver": "MySQL",
+      "name": "SuperHM",
+      "database": "SuperHM",
+      "username": "root",
+      "password": "admin",
+      "connectionTimeout": 60
+    }
+  ]
+}
